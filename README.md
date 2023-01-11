@@ -1,4 +1,4 @@
-# APPLE
+# Pathfinding Snake Game
 
 ---
 
